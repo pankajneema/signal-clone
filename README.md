@@ -17,7 +17,7 @@ Follow these steps to set up the project:
 
    ```bash
    git clone https://github.com/laribright/signal-clone.git
-   cd slack-clone
+   cd signal-clone
    ```
 
 2. **Install Dependencies:**
